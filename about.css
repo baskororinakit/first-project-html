@@ -1,0 +1,60 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #101927;
+    width: 100%;
+    height:85px;
+}
+
+.logo-navbar {
+    width: 4%;
+    float: left;
+    padding-left: 10px;
+}
+
+
+
+.navbar-ul {
+    background-color: #101927;
+    display: flex;
+    justify-content: right;
+    height: 90px;
+    align-items: center;
+}
+
+.navbar-li {
+    list-style-type:none;
+    padding: 10px;
+    color: #111;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+
+.a-navbar{
+    color: white;
+    text-decoration: none;
+}
+
+.b-navbar{
+    color:white;
+    text-decoration: none;
+}
+
+
+.content-about {
+    background-color: #101927;
+    padding-bottom: 7%;
+}
+
+.about {
+    padding-left: 70px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
